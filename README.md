@@ -1,4 +1,4 @@
-# TubesTBA
+# TubesTBA (Teori Bahasa dan Automata)
 
 Simple Parser for Propositional
 
