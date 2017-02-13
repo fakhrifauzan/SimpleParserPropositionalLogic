@@ -1,10 +1,15 @@
 # TubesTBA
 
 Simple Parser for Propositional
+
 Logic Formula Tahap 2
+
 Tugas Besar Program Teori Bahasa dan Automata
+
 Dosen Pengampu : Asep Id Hadiana
+
 Kelompok : IV
+
 
 Anggota Kelompok :
 
