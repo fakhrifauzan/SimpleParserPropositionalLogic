@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1480502971 source:d:\cplusplus\tubes2tba\main.cpp
+	<iostream>
+	<conio.h>
+
+1480316913 source:d:\cplusplus\tubes2tba\stack.cpp
+	"stack.h"
+
+1480316981 d:\cplusplus\tubes2tba\stack.h
+	<iostream>
+
